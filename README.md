@@ -5,6 +5,6 @@ where possible.
 
 Notes:
 
-**Day 05** -- The SymPy version is orders of magnitudes slower than my
+**Day 05** -- The SymPy version is orders of magnitude slower than my
 line scan algorithm seemingly due to the slow -- or just unspecialised
 -- Union implementation in SymPy.
